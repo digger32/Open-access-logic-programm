@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.15 21:28:19.858.pas,C:\Documents and Settings\1\Мои документы\RAD Studio\Projects\Unit1.pas=C:\nauka\LAD1\logic1.pas</Transaction>
+    <Transaction>2009.03.15 21:28:19.858.dfm,C:\Documents and Settings\1\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\nauka\LAD1\logic1.dfm</Transaction>
+    <Transaction>2009.03.15 21:28:33.057.dproj,C:\Documents and Settings\1\Мои документы\RAD Studio\Projects\Project1.dproj=C:\nauka\LAD1\logic.dproj</Transaction>
+    <Transaction>2009.03.21 00:13:18.617.pas,C:\nauka\LAD1\Unit1.pas=C:\nauka\LAD1\classif1.pas</Transaction>
+    <Transaction>2009.04.06 11:44:14.103.pas,C:\nauka\LAD1\Unit1.pas=C:\nauka\LAD1\optim1.pas</Transaction>
+    <Transaction>2009.04.20 12:35:03.246.pas,C:\nauka\LAD1\Unit1.pas=C:\nauka\LAD1\search1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

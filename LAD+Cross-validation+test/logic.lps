@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="logic.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="60" Y="18"/>
+        <UsageCount Value="360"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="logic1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1160"/>
+        <CursorPos X="73" Y="1241"/>
+        <UsageCount Value="360"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="classif1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="755"/>
+        <CursorPos Y="454"/>
+        <FoldState Value=" T3lN0U4 pj5kL0W022 TM hlX420C22m TLo10G025O"/>
+        <UsageCount Value="360"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="optim1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="7" Y="201"/>
+        <UsageCount Value="360"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="search1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="205"/>
+        <CursorPos Y="263"/>
+        <UsageCount Value="360"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="6">
+      <Item1>
+        <Expression Value="num_var"/>
+      </Item1>
+      <Item2>
+        <Expression Value="var_type[0]"/>
+      </Item2>
+      <Item3>
+        <Expression Value="select_var[3]"/>
+      </Item3>
+      <Item4>
+        <Expression Value="objem0"/>
+      </Item4>
+      <Item5>
+        <Expression Value="objem1"/>
+      </Item5>
+      <Item6>
+        <Expression Value="iii"/>
+      </Item6>
+    </Watches>
+  </Debugging>
+</CONFIG>
